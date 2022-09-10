@@ -1,0 +1,6 @@
+GIT is a version control software - pre installed in PCs
+Example of GIT products - GitHub, BitBucket
+
+Why GIT - Continuous Integration/Continuous Deployment (CICD)
+
+Local to Staging (using ADD command) - Staging to Commit - Commit to Git Repo - Repo to End Product via AWS amplify
